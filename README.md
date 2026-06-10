@@ -291,8 +291,8 @@ EXEC gold.load_facts;
 
 ## 👤 Author
 
-**Anumodit Shukla**  
-📧 Connect on [LinkedIn](https://linkedin.com) | 🌐 [GitHub](https://github.com)
+**Sachin Upadhyay**  
+
 
 ---
 
