@@ -1,0 +1,24 @@
+# Large data files
+datasets/*.csv
+datasets/*.xlsx
+*.csv
+
+# SQL Server backup files
+*.bak
+*.mdf
+*.ldf
+
+# Local config
+*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.~lock.*
